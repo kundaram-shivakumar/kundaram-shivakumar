@@ -1,16 +1,147 @@
 # 💫 About Me:
-# Hi 👋, I'm Shiva Kumar Kundaram<br><br>### Data Analyst @ Accenture | Power BI | SQL | Python<br><br>I'm a Data Analyst and Associate Software Engineer at Accenture with experience working on enterprise-scale Manufacturing Execution Systems (MES - Apriso). My work involves analyzing production data, improving workflow efficiency, performing root cause analysis, and supporting operational reporting for global manufacturing environments.<br><br>I enjoy transforming raw data into actionable business insights through data visualization, reporting, and analytical problem-solving.<br><br>---<br><br>## 🚀 About Me<br><br>🔹 Associate Software Engineer at Accenture<br><br>🔹 Experience supporting enterprise manufacturing data workflows<br><br>🔹 Skilled in SQL, Python, Power BI, Excel, and Tableau<br><br>🔹 Passionate about transforming business data into actionable insights through reporting and visualization.<br><br>🔹 Published IEEE Research Author<br><br>🔹 Gold Certified Smart Coder<br><br>🔹 Continuous learner exploring Cloud, Data Engineering, and AI technologies<br><br>---<br><br>## 💼 Professional Experience<br><br>### Associate Software Engineer | Accenture<br><br>**Client:** Global Manufacturing Enterprise (Rail Manufacturing Domain)<br><br>✔ Managed and optimized large-scale manufacturing data workflows using Apriso MES<br><br>✔ Supported operational reporting and manufacturing process analytics<br><br>✔ Performed root cause analysis to identify recurring data quality issues<br><br>✔ Reduced support ticket volume through data-driven issue resolution<br><br>✔ Automated repetitive operational processes, improving productivity and reducing manual effort<br><br>✔ Collaborated with cross-functional teams to improve workflow efficiency and data accuracy<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Data Analytics<br><br>* Power BI<br>* DAX<br>* SQL<br>* Excel<br>* Tableau<br>* Data Visualization<br>* KPI Reporting<br>* Data Cleaning<br>* Data Validation<br>* Root Cause Analysis<br><br>### Programming<br><br>* Python<br>* C++<br><br>### Databases<br><br>* SQL Server (SSMS)<br><br>### Enterprise Tools<br><br>* DELMIA Apriso<br>* Apriso Process Builder<br>* Apriso Desktop Client<br><br>### Cloud<br><br>* Microsoft Azure<br>* Google Cloud Platform<br><br>---<br><br>## 📊 Featured Projects<br><br>### Superstore Analytics Dashboard<br><br>📌 Built an interactive Power BI dashboard analyzing $2.3M+ sales data<br><br>📌 Designed KPI-driven visualizations for Sales, Profit, and YoY Growth<br><br>📌 Implemented dynamic slicers and bookmark navigation<br><br>📌 Identified regional sales trends and high-performing states<br><br>---<br><br>### Customer Behavior Analysis Dashboard<br><br>📌 Analyzed 3.9K+ customer records using Power BI<br><br>📌 Tracked Average Purchase Amount and Customer Satisfaction KPIs<br><br>📌 Identified high-value customer segments through demographic analysis<br><br>📌 Evaluated subscription and category-wise purchasing trends<br>
+# Hi 👋, I'm Shiva Kumar Kundaram
+
+### Data Analyst @ Accenture | Power BI | SQL | Python
+
+I'm a Data Analyst and Associate Software Engineer at Accenture with experience working on enterprise-scale Manufacturing Execution Systems (MES - Apriso). My work involves analyzing production data, improving workflow efficiency, performing root cause analysis, and supporting operational reporting for global manufacturing environments.
+
+I enjoy transforming raw data into actionable business insights through data visualization, reporting, and analytical problem-solving.
+
+---
+
+## 🚀 About Me
+
+* Associate Software Engineer at Accenture
+* Experience supporting enterprise manufacturing data workflows
+* Skilled in SQL, Python, Power BI, Excel, Tableau, and Data Analytics
+* Passionate about transforming business data into actionable insights through reporting and visualization
+* Published IEEE Research Author
+* Gold Certified Smart Coder
+* Continuous learner exploring Cloud, Data Engineering, and AI technologies
+
+---
+
+## 💼 Professional Experience
+
+### Associate Software Engineer | Accenture
+
+**Client:** Global Manufacturing Enterprise (Rail Manufacturing Domain)
+
+* Managed and optimized large-scale manufacturing data workflows using Apriso MES
+* Supported operational reporting and manufacturing process analytics
+* Performed root cause analysis to identify recurring data quality issues
+* Reduced support ticket volume through data-driven issue resolution
+* Automated repetitive operational processes, improving productivity and reducing manual effort
+* Collaborated with cross-functional teams to improve workflow efficiency and data accuracy
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+* Power BI
+* DAX
+* SQL
+* Excel
+* Tableau
+* Data Visualization
+* KPI Reporting
+* Data Cleaning
+* Data Validation
+* Root Cause Analysis
+
+### 💻 Programming
+
+* Python
+* C++
+
+### 🗄️ Databases
+
+* SQL Server (SSMS)
+
+### 🏭 Enterprise Tools
+
+* DELMIA Apriso
+* Apriso Process Builder
+* Apriso Desktop Client
+
+### ☁️ Cloud
+
+* Microsoft Azure
+* Google Cloud Platform
+
+---
+
+## 📊 Featured Projects
+
+### Superstore Analytics Dashboard
+
+* Analyzed $2.3M+ sales data through an interactive Power BI dashboard
+* Developed KPI-driven reports for Sales, Profit, and Year-over-Year Growth
+* Implemented dynamic slicers and bookmark navigation for enhanced user experience
+* Identified regional sales patterns and high-performing states to support business decisions
+
+### Customer Behavior Analysis Dashboard
+
+* Analyzed 3.9K+ customer records to evaluate purchasing behavior
+* Tracked Average Purchase Amount and Customer Satisfaction KPIs
+* Identified high-value customer segments through demographic analysis
+* Evaluated subscription and category-wise purchasing trends to uncover growth opportunities
+
 ### Swiggy Sales Analysis Dashboard
 
-📌 Analyzed 197K+ orders and ₹53M+ revenue to evaluate sales performance across states, cities, food categories, and time periods.
+* Analyzed 197K+ orders and ₹53M+ revenue across states, cities, food categories, and time periods
+* Identified Veg items as the dominant revenue contributor, generating 64% of total sales
+* Found Bengaluru as the highest-performing city with ₹5.46M sales, followed by Lucknow, Hyderabad, and Mumbai
+* Discovered Saturday as the top-performing day with ₹7.78M sales, highlighting strong weekend demand
 
-📌 Identified Veg items as the dominant revenue contributor, accounting for 64% of total sales compared to 36% from Non-Veg items.
+---
 
-📌 Discovered Bengaluru as the highest-performing city with ₹5.46M in sales, followed by Lucknow, Hyderabad, and Mumbai, highlighting key regional revenue centers.
+## 🏆 Achievements
 
-📌 Found that weekend demand was strongest, with Saturday generating the highest sales (₹7.78M), indicating increased customer ordering activity during weekends.
+* 🥇 Best Performance Award – Accenture (November 2025)
+* 📄 Published IEEE Research Paper at MECON 2022
+* 🏅 Gold Certified Smart Coder (Top 3.3% Global Rank)
+* 🥈 Runner-Up – CBIT Hacktober Fest 2022
 
-<br>---<br><br>## 🏆 Achievements<br><br>🥇 Best Performance Award – Accenture (November 2025)<br><br>📄 Published IEEE Research Paper at MECON 2022<br><br>🏅 Gold Certified Smart Coder (Top 3.3% Global Rank)<br><br>🥈 Runner-Up – CBIT Hacktober Fest 2022<br><br>---<br><br>## 📜 Certifications<br><br>✔ Azure Fundamentals (AZ-900)<br><br>✔ Google Cloud Digital Leader<br><br>✔ DELMIA Brand Essentials<br><br>✔ McKinsey Forward Program<br><br>✔ Certified Smart Coder<br><br>---<br><br>## 🎯 Current Focus<br><br>* Advanced SQL<br>* Power BI Dashboarding<br>* Data Storytelling<br>* Cloud Analytics<br>* Data Engineering Fundamentals<br>* AI for Data Analytics<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 Email: [k.shivaksk000@gmail.com](mailto:k.shivaksk000@gmail.com)<br><br>💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/kundaram-shiva-kumar-ksk/)<br><br>💻 GitHub:[ Your GitHub URL](https://github.com/kundaram-shivakumar)<br><br>---<br><br>### ⚡ Fun Fact<br><br>I enjoy uncovering patterns in data, solving complex business problems, and turning insights into impactful decisions.<br>
+---
+
+## 📜 Certifications
+
+* Azure Fundamentals (AZ-900)
+* Google Cloud Digital Leader
+* DELMIA Brand Essentials
+* McKinsey Forward Program
+* Certified Smart Coder
+
+---
+
+## 🎯 Current Focus
+
+* Advanced SQL
+* Power BI Dashboarding
+* Data Storytelling
+* Cloud Analytics
+* Data Engineering Fundamentals
+* AI for Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[k.shivaksk000@gmail.com](mailto:k.shivaksk000@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/kundaram-shiva-kumar-ksk**
+
+💻 GitHub: **github.com/kundaram-shivakumar**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy uncovering patterns in data, solving complex business problems, and turning insights into impactful business decisions.
+
 
 
 ## 🌐 Socials:
